@@ -75,10 +75,6 @@ bun install
  npm run dev
 ```
 
-## 👨‍💻 Author
-
-Developed by **Apoorva Gupta**
-
 
 <img width="1280" height="800" alt="Screenshot 2025-09-20 at 3 29 24 AM" src="https://github.com/user-attachments/assets/097a5a43-7b5b-4b92-96ac-c2e77b471237" />
 <img width="1280" height="800" alt="Screenshot 2025-09-20 at 3 29 37 AM" src="https://github.com/user-attachments/assets/906e6be2-6e59-47df-b712-be1a8fcf82c7" />
@@ -110,3 +106,7 @@ During the development of this project, I used AI tools to support my workflow:
   - ChatGPT improved my learning curve by breaking down complex topics into understandable pieces, which boosted my confidence in applying them to the project.  
   - Overall, AI tools allowed me to focus more on **building features, problem-solving, and learning** rather than getting stuck on repetitive or confusing tasks.  
 
+
+## 👨‍💻 Author
+
+Developed by **Apoorva Gupta**
