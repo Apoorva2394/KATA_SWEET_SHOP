@@ -69,12 +69,17 @@ npm install
  or
 bun install
 ```
+2. Create a .env.local file in the root of the project and add the following Supabase credentials:
+ ```bash
+VITE_SUPABASE_URL=https://sbdsowywssxtttubyecx.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNiZHNvd3l3c3N4dHR0dWJ5ZWN4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTgyMjM3NzcsImV4cCI6MjA3Mzc5OTc3N30.RYBrLof2MiGdhWOAvHS4x5BrXX8GkvdX0irAlfxRsuM
+```
 
-2. Run the app
+3. Run the app
 ```bash
  npm run dev
 ```
-
+</br>
 
 <img width="1280" height="800" alt="Screenshot 2025-09-20 at 3 29 24 AM" src="https://github.com/user-attachments/assets/097a5a43-7b5b-4b92-96ac-c2e77b471237" />
 <img width="1280" height="800" alt="Screenshot 2025-09-20 at 3 29 37 AM" src="https://github.com/user-attachments/assets/906e6be2-6e59-47df-b712-be1a8fcf82c7" />
