@@ -89,4 +89,24 @@ Developed by **Apoorva Gupta**
 <img width="1280" height="800" alt="Screenshot 2025-09-20 at 3 30 21 AM" src="https://github.com/user-attachments/assets/c7141dcd-30f3-4553-a3b8-008f891bf5c9" />
 
 
+## 🤖 My AI Usage
+
+During the development of this project, I used AI tools to support my workflow:
+
+- **AI Tools Used:**
+  - Lovable AI  
+  - Zencoder  
+  - ChatGPT  
+
+- **How I Used Them:**
+  - I used **Lovable AI** to assist in generating and refining frontend components, improving the UI/UX, and speeding up the initial setup of my design.  
+  - I used **Zencoder** to identify, debug, and suggest fixes for bugs and errors in my codebase.  
+  - I used **ChatGPT** to gain clear and readable knowledge, resources, and explanations of concepts or situations whenever I needed deeper understanding.  
+
+- **Reflection on AI Impact:**
+  - These tools helped me save time by automating repetitive coding tasks, suggesting bug fixes, and explaining concepts in a simple way.  
+  - Lovable AI streamlined my frontend workflow and helped me try different UI layouts quickly.  
+  - Zencoder acted like a debugging partner, providing fast insights into errors.  
+  - ChatGPT improved my learning curve by breaking down complex topics into understandable pieces, which boosted my confidence in applying them to the project.  
+  - Overall, AI tools allowed me to focus more on **building features, problem-solving, and learning** rather than getting stuck on repetitive or confusing tasks.  
 
